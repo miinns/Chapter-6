@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 class UserErrException : ApplicationException
 {
-    public UserErrException(string s) : base(s) { } // 생성
+    public UserErrException(string s) : base(s) { } // 생
 }
 class UserException
 {
