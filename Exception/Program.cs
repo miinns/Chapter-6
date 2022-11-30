@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 class UserErrException : ApplicationException
 {
-    public UserErrException(string s) : base(s) { } // 
+    public UserErrException(string s) : base(s) { } //
 }
 class UserException
 {
