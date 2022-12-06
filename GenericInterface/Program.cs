@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 interface IGenericInterface<T>
 {
     void SetValue(T x);
